@@ -204,3 +204,12 @@ console.log('test');
 - `<link>`标签不会阻塞DOM的解析；
 - `<link>`标签会则色DOM的渲染；
 - `<link>`标签同时还会阻塞其之后的`<script>`标签的执行。
+
+
+<br>
+<br>
+
+### 参考文章
+- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#The_rendering_engine)
+- [css加载会造成阻塞吗](https://github.com/chenjigeng/blog/blob/master/css%E5%8A%A0%E8%BD%BD%E4%BC%9A%E9%80%A0%E6%88%90%E9%98%BB%E5%A1%9E%E5%90%97%EF%BC%9F.md)
+- [原来 CSS 与 JS 是这样阻塞 DOM 解析和渲染的](https://github.com/ljf0113/how-js-and-css-block-dom)
